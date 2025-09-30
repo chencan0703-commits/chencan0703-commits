@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there 👋, I'm Can Chen!
 
-<!--
-**chencan0703-commits/chencan0703-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a postgraduate student passionate about Web3, blockchain technology, and decentralized applications. Currently diving deep into Solidity and smart contract security. My goal is to become a proficient blockchain developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+* **Languages:**
+    ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* **Tools & Platforms:**
+    ![Hardhat](https://img.shields.io/badge/Hardhat-232323?style=for-the-badge&logo=hardhat&logoColor=white)
+    ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🌱 I'm currently learning...
+
+* Advanced Smart Contract patterns (Upgrades, Proxies)
+* DeFi protocols and mechanisms
+
+---
+
+### 📫 How to reach me:
+
+* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Email:** your.email@example.com
+
+---
+
+![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=chencan0703-commits&show_icons=true&theme=radical)
