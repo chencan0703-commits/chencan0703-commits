@@ -26,8 +26,7 @@ I'm a postgraduate student passionate about Web3, blockchain technology, and dec
 
 ### 📫 How to reach me:
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** your.email@example.com
+* **Email:** chencan0703@gmail.com
 
 ---
 
